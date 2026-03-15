@@ -1,3 +1,10 @@
 .venv/
 .vscode/
-distilbert-base-uncased-lora-text-classification/
+distilbert-base-uncased-lora-text-classification/-e __pycache__/
+*.pyc
+*.pyo
+node_modules/
+distilbert-*/
+ia3-tuned-*/
+prompt-tuned-*/
+*.egg-info/
